@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi! Iam Huzaifa Akhtar👋
 
 <!--
 **huzaifaakhtar7/huzaifaakhtar7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,3 +20,8 @@ Here are some ideas to get you started:
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=FFFFFF)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=FFFFFF)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=FFFFFF)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=FFFFFF)
+![OOP](https://img.shields.io/badge/OOP-4CAF50?style=for-the-badge&logo=code&logoColor=FFFFFF)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=FFFFFF)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=FFFFFF)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=FFFFFF)
